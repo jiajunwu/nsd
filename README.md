@@ -10,7 +10,7 @@ http://nsd.csail.mit.edu
 
 **Project Malmo**: Please follow the instructions from [`Malmo`](https://github.com/Microsoft/malmo) to launch the Minecraft client (0.30.0).
 
-Please also include the path to the Malmo schemas in the environment variable `MALMO_XSD_PATH`.
+Please also include the path to Malmo schemas in the environment variable `MALMO_XSD_PATH`.
 
 **Torch**: We use [`Torch 7`](http://torch.ch) for our implementation with these additional packages:
 
