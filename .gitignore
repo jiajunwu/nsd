@@ -1,0 +1,6 @@
+*.bak
+*.png
+*.tgz
+*.out
+mission_records/*
+
